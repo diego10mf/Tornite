@@ -1,0 +1,2 @@
+rootProject.name='Tornite'
+include ':app'

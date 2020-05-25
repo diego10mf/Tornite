@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_clas"
+        android:title="Clasificación"
+        android:icon="@drawable/ic_clasificacion" />
+    <item
+        android:id="@+id/menu_info"
+        android:title="Info"
+        android:icon="@drawable/ic_info" />
+    <item
+        android:id="@+id/menu_part"
+        android:title="Participantes"
+        android:icon="@drawable/ic_participantes" />
+</menu>
